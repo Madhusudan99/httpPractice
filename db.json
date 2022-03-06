@@ -1,9 +1,38 @@
 {
-    "posts": [  
-        { "id": 1, "title": "json-server", "author": "typicode" }  
-      ],  
-      "comments": [  
-        { "id": 1, "body": "some comment", "postId": 1 }  
-      ],  
-      "profile": { "name": "typicode" }  
+  "posts": [
+    {
+      "id": 1,
+      "name": "James",
+      "email": "james@mail.com",
+      "message": "This  messsage is loooooooong"
+    },
+    {
+      "name": "James",
+      "email": "james@mail.com",
+      "message": "This  messsage is loooooooong",
+      "id": 2
+    },
+    {
+      "name": "John",
+      "email": "john@mail.com",
+      "message": "wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww",
+      "id": 3
+    },
+    {
+      "name": "Madhusudan",
+      "email": "madhusudan@mail.com",
+      "message": "My Loooooong messssssssageee",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
